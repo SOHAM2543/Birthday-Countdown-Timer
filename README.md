@@ -2,7 +2,7 @@
 <head>
 </head>
   <body>
-  <center> <h1> Birthday CountDown Timer </h1></center>
+  <center>  Birthday CountDown Timer </h1></center>
   </body>
 </html>
 
